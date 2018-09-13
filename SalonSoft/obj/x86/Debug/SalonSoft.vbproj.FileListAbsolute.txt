@@ -1,0 +1,48 @@
+C:\Users\ADMIN\AppData\Local\Temporary Projects\SalonSoft\bin\Debug\SalonSoft.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\SalonSoft\bin\Debug\SalonSoft.pdb
+C:\Users\ADMIN\AppData\Local\Temporary Projects\SalonSoft\bin\Debug\SalonSoft.xml
+C:\Users\ADMIN\AppData\Local\Temporary Projects\SalonSoft\obj\x86\Debug\SalonSoft.MainForm.resources
+C:\Users\ADMIN\AppData\Local\Temporary Projects\SalonSoft\obj\x86\Debug\SalonSoft.Resources.resources
+C:\Users\ADMIN\AppData\Local\Temporary Projects\SalonSoft\obj\x86\Debug\SalonSoft.vbproj.GenerateResource.Cache
+C:\Users\ADMIN\AppData\Local\Temporary Projects\SalonSoft\obj\x86\Debug\SalonSoft.exe.licenses
+C:\Users\ADMIN\AppData\Local\Temporary Projects\SalonSoft\obj\x86\Debug\SalonSoft.exe
+C:\Users\ADMIN\AppData\Local\Temporary Projects\SalonSoft\obj\x86\Debug\SalonSoft.xml
+C:\Users\ADMIN\AppData\Local\Temporary Projects\SalonSoft\obj\x86\Debug\SalonSoft.pdb
+C:\Users\ADMIN\documents\visual studio 2010\Projects\SalonSoft\SalonSoft\obj\x86\Debug\SalonSoft.exe
+C:\Users\ADMIN\documents\visual studio 2010\Projects\SalonSoft\SalonSoft\obj\x86\Debug\SalonSoft.xml
+C:\Users\ADMIN\documents\visual studio 2010\Projects\SalonSoft\SalonSoft\obj\x86\Debug\SalonSoft.pdb
+C:\Users\ADMIN\documents\visual studio 2010\Projects\SalonSoft\SalonSoft\bin\Debug\SalonSoft.exe
+C:\Users\ADMIN\documents\visual studio 2010\Projects\SalonSoft\SalonSoft\bin\Debug\SalonSoft.pdb
+C:\Users\ADMIN\documents\visual studio 2010\Projects\SalonSoft\SalonSoft\bin\Debug\SalonSoft.xml
+C:\Users\ADMIN\documents\visual studio 2010\Projects\SalonSoft\SalonSoft\obj\x86\Debug\SalonSoft.MainForm.resources
+C:\Users\ADMIN\documents\visual studio 2010\Projects\SalonSoft\SalonSoft\obj\x86\Debug\SalonSoft.Resources.resources
+C:\Users\ADMIN\documents\visual studio 2010\Projects\SalonSoft\SalonSoft\obj\x86\Debug\SalonSoft.vbproj.GenerateResource.Cache
+C:\Users\ADMIN\documents\visual studio 2010\Projects\SalonSoft\SalonSoft\obj\x86\Debug\SalonSoft.exe.licenses
+C:\Users\ADMIN\documents\visual studio 2010\Projects\SalonSoft\SalonSoft\bin\Debug\SalonSoft.exe.config
+C:\Users\ADMIN\documents\visual studio 2010\Projects\SalonSoft\SalonSoft\obj\x86\Debug\SalonSoft.Clients.resources
+C:\Users\ADMIN\documents\visual studio 2010\Projects\SalonSoft\SalonSoft\obj\x86\Debug\SalonSoft.Employees.resources
+C:\Users\ADMIN\documents\visual studio 2010\Projects\SalonSoft\SalonSoft\obj\x86\Debug\SalonSoft.Services.resources
+C:\Users\ADMIN\documents\visual studio 2010\Projects\SalonSoft\SalonSoft\obj\x86\Debug\SalonSoft.Products.resources
+C:\Users\ADMIN\documents\visual studio 2010\Projects\SalonSoft\SalonSoft\obj\x86\Debug\SalonSoft.Client_Information.resources
+C:\Users\ADMIN\documents\visual studio 2010\Projects\SalonSoft\SalonSoft\obj\x86\Debug\SalonSoft.LogIn.resources
+C:\Users\ADMIN\documents\visual studio 2010\Projects\SalonSoft\SalonSoft\obj\x86\Debug\SalonSoft.Find_Client.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\SalonSoft\SalonSoft\obj\x86\Debug\SalonSoft.ServiceSearch.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\SalonSoft\SalonSoft\obj\x86\Debug\SalonSoft.EmployeesSearch.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\SalonSoft\SalonSoft\obj\x86\Debug\SalonSoft.Search_Products.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\SalonSoft\SalonSoft\obj\x86\Debug\SalonSoft.Permission.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\SalonSoft\SalonSoft\obj\x86\Debug\SalonSoft.Salon_Settings.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\SalonSoft\SalonSoft\obj\x86\Debug\SalonSoft.Users.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\SalonSoft\SalonSoft\obj\x86\Debug\SalonSoft.SplashScreen1.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\SalonSoft\SalonSoft\obj\x86\Debug\SalonSoft.Payroll.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\SalonSoft\SalonSoft\obj\x86\Debug\SalonSoft.Total_Amount.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\SalonSoft\SalonSoft\bin\Debug\salonsoftDataSet1.Designer.vb
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\SalonSoft\SalonSoft\bin\Debug\salonsoftDataSet1.xsc
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\SalonSoft\SalonSoft\bin\Debug\salonsoftDataSet1.xsd
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\SalonSoft\SalonSoft\bin\Debug\salonsoftDataSet1.xss
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\SalonSoft\SalonSoft\bin\Debug\salonsoftDataSet.Designer.vb
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\SalonSoft\SalonSoft\bin\Debug\salonsoftDataSet.vb
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\SalonSoft\SalonSoft\bin\Debug\salonsoftDataSet.xsc
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\SalonSoft\SalonSoft\bin\Debug\salonsoftDataSet.xsd
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\SalonSoft\SalonSoft\bin\Debug\salonsoftDataSet.xss
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\SalonSoft\SalonSoft\obj\x86\Debug\SalonSoft.PaySlip.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\SalonSoft\SalonSoft\obj\x86\Debug\SalonSoft.EmpApt.resources
